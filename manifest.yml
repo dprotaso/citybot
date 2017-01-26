@@ -1,0 +1,5 @@
+---
+  name: citybot
+  buildpack: go_buildpack
+  env:
+    GOPACKAGENAME: citybot

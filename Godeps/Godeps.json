@@ -1,0 +1,30 @@
+{
+	"ImportPath": "github.com/dprotaso/citybot",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v77",
+	"Deps": [
+		{
+			"ImportPath": "github.com/Sirupsen/logrus",
+			"Comment": "v0.11.0-35-g61e43dc",
+			"Rev": "61e43dc76f7ee59a82bdf3d71033dc12bea4c77d"
+		},
+		{
+			"ImportPath": "github.com/ippy04/messengerbot",
+			"Rev": "c3a9424067bad6e48c779764f69d047a4d812243"
+		},
+		{
+			"ImportPath": "github.com/mpmlj/clarifai-client-go",
+			"Comment": "0.5.1-1-gc6431fa",
+			"Rev": "c6431fa7052883e47896007eb26e6c0159cf1a89"
+		},
+		{
+			"ImportPath": "github.com/satori/go.uuid",
+			"Comment": "v1.1.0-6-gb061729",
+			"Rev": "b061729afc07e77a8aa4fad0a2fd840958f1942a"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "478fcf54317e52ab69f40bb4c7a1520288d7f7ea"
+		}
+	]
+}
